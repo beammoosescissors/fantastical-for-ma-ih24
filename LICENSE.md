@@ -1,4 +1,4 @@
-
+Fantastical for macOS rare Workflow: auto-sync & dark mode is the best Fantastical for macOS workflow, featuring auto-sync and dark mode. Safe, efficient, and optimized for macOS
 
 
 
